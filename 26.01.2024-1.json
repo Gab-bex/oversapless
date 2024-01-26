@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Hall",
+    "age": 23,
+    "address": {
+        "street": "Freeman Stream",
+        "city": "Diazhaven",
+        "state": "Kentucky",
+        "zip": "11505"
+    },
+    "contact": {
+        "phone": "3197350827",
+        "servicePhone": "800816382"
+    },
+    "birthday": "2002-19-10",
+    "ip": "89.99.65.38",
+    "foo": "bar",
+    "profile": {
+        "about": "From window ability step how member. Want check case phone fish stay themselves method.\nRepresent three beyond price bill. Authority Republican hundred girl put tree. Line his finally certainly.",
+        "bio": "Send work region onto town only. Western water international can reduce.\nTown husband state kitchen range. Describe pressure prepare easy page. Both prove who attorney single audience."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
