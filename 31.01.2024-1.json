@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Perez",
+    "age": 17,
+    "address": {
+        "street": "Knight Passage",
+        "city": "East Aaronfort",
+        "state": "Maine",
+        "zip": "02130"
+    },
+    "contact": {
+        "phone": "(587)817-9069x90484",
+        "servicePhone": "800347517"
+    },
+    "birthday": "2008-24-06",
+    "ip": "15.129.170.157",
+    "foo": "bar",
+    "profile": {
+        "about": "More experience let reality.\nHeart water science. Include performance fear in opportunity door.",
+        "bio": "Pattern prevent manage. Same realize purpose nothing they cold our. Employee strategy region she.\nInstitution home win wall much agree during day. Fund strategy increase pressure mission kid."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
