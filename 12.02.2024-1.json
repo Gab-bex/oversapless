@@ -1,0 +1,25 @@
+{
+    "name": "Brian Tucker",
+    "age": 81,
+    "address": {
+        "street": "Tina Isle",
+        "city": "Matthewmouth",
+        "state": "Missouri",
+        "zip": "60474"
+    },
+    "contact": {
+        "phone": "852-910-3541x67819",
+        "servicePhone": "800076656"
+    },
+    "birthday": "1944-16-04",
+    "ip": "125.47.49.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Represent pick either hear. Quite this maybe let glass a.\nAmong nothing cover care apply owner. Ready behind huge debate. Hair nothing condition structure school.",
+        "bio": "Store break boy treatment single top during. Teach recent figure question Democrat which.\nMusic add memory hold year. Real open quite board bed night. Leg fill break buy."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
