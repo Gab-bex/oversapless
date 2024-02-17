@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Johnson",
+    "age": 26,
+    "address": {
+        "street": "Baker Circles",
+        "city": "Tyroneborough",
+        "state": "Arizona",
+        "zip": "50168"
+    },
+    "contact": {
+        "phone": "001-445-207-7137",
+        "servicePhone": "800211531"
+    },
+    "birthday": "1999-11-09",
+    "ip": "216.36.2.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby around meeting young six. Radio run thought. Ten own sing wonder although defense.",
+        "bio": "Company charge party. Despite character guy actually.\nOfficer behavior amount know. Whose current strategy loss mind. A system notice hot bar."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
