@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Moreno",
+    "age": 54,
+    "address": {
+        "street": "Weaver Port",
+        "city": "East Whitneyhaven",
+        "state": "Missouri",
+        "zip": "31315"
+    },
+    "contact": {
+        "phone": "+1-290-423-6431x416",
+        "servicePhone": "800638258"
+    },
+    "birthday": "1971-14-03",
+    "ip": "219.128.11.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal concern his describe decide direction. Else light floor pick return lead standard dinner. Second really accept whatever discover live ask.",
+        "bio": "Commercial accept control goal walk. Current improve possible fact professional add. Hand sea glass.\nPull way president. Stay officer will law hear east send from. Yourself manager name coach few."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
