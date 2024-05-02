@@ -1,0 +1,25 @@
+{
+    "name": "William Johnson",
+    "age": 86,
+    "address": {
+        "street": "Brittany Circles",
+        "city": "Castillostad",
+        "state": "Idaho",
+        "zip": "83212"
+    },
+    "contact": {
+        "phone": "(920)321-7437x330",
+        "servicePhone": "800255796"
+    },
+    "birthday": "1939-14-12",
+    "ip": "78.130.252.64",
+    "foo": "bar",
+    "profile": {
+        "about": "True evidence edge than house street dinner. Individual statement top never certainly business draw. Be old show again choose young beautiful.",
+        "bio": "Morning change author skin thank national unit. Understand that company audience control itself serve."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
