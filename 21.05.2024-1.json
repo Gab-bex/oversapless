@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Palmer",
+    "age": 53,
+    "address": {
+        "street": "Raymond Spur",
+        "city": "East Andrea",
+        "state": "Nebraska",
+        "zip": "65036"
+    },
+    "contact": {
+        "phone": "5349202020",
+        "servicePhone": "800108023"
+    },
+    "birthday": "1972-02-07",
+    "ip": "169.59.199.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Station evidence light administration professor store. Public guess radio clear. Bring interview hit live certainly.",
+        "bio": "Serious vote father eye wind. Significant find head behavior surface traditional prove total."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
