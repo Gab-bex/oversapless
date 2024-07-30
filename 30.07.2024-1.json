@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Collins",
+    "age": 34,
+    "address": {
+        "street": "Lisa Wells",
+        "city": "Atkinsonchester",
+        "state": "Delaware",
+        "zip": "81594"
+    },
+    "contact": {
+        "phone": "425.217.7469",
+        "servicePhone": "800421197"
+    },
+    "birthday": "1991-09-03",
+    "ip": "30.72.9.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear force over hear base tree. Them movie feel early tree subject exist. Line choose happen difference same. Teacher yourself operation.",
+        "bio": "Life and approach prepare night director forward lay. Take resource myself order peace seem cover current.\nSing activity art. Anyone trade modern lay cut. Camera good total real machine range."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
