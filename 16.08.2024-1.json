@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Crawford",
+    "age": 79,
+    "address": {
+        "street": "Lucas Ports",
+        "city": "North Cynthiamouth",
+        "state": "Michigan",
+        "zip": "97156"
+    },
+    "contact": {
+        "phone": "+1-748-233-5841x7544",
+        "servicePhone": "800298418"
+    },
+    "birthday": "1946-29-01",
+    "ip": "90.179.252.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry choose interest test yes water meet world. Environmental program glass spring anyone size.",
+        "bio": "Support forward store say challenge draw. Development either store early south charge.\nSeat forget news after you leader once. Great economic question history can."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
