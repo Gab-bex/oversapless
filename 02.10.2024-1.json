@@ -1,0 +1,25 @@
+{
+    "name": "James Nguyen",
+    "age": 111,
+    "address": {
+        "street": "Brock Glen",
+        "city": "New Elizabethton",
+        "state": "Tennessee",
+        "zip": "86982"
+    },
+    "contact": {
+        "phone": "7587848947",
+        "servicePhone": "800557227"
+    },
+    "birthday": "1914-14-04",
+    "ip": "193.175.106.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Center generation low know point by. Yet keep leave site beautiful show. Loss each hope sit provide why home.",
+        "bio": "Whatever American guy can. Study still goal responsibility very instead. Her amount compare."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
