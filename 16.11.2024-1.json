@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Woods",
+    "age": 96,
+    "address": {
+        "street": "Anita Port",
+        "city": "Lake Janeborough",
+        "state": "Kansas",
+        "zip": "75362"
+    },
+    "contact": {
+        "phone": "+1-378-656-9677",
+        "servicePhone": "800486420"
+    },
+    "birthday": "1929-09-06",
+    "ip": "165.88.23.79",
+    "foo": "bar",
+    "profile": {
+        "about": "A responsibility type society sing industry. Weight east chair like letter.",
+        "bio": "Now both grow resource lawyer itself main method. Indicate team nature color. Edge race though visit.\nIdentify nor sometimes can before you tonight fly. Main option similar much heart church."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
