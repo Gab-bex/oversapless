@@ -1,0 +1,25 @@
+{
+    "name": "James Pearson",
+    "age": 40,
+    "address": {
+        "street": "Peters Throughway",
+        "city": "New Williamport",
+        "state": "Missouri",
+        "zip": "31612"
+    },
+    "contact": {
+        "phone": "+1-435-483-6782x703",
+        "servicePhone": "800206606"
+    },
+    "birthday": "1985-23-09",
+    "ip": "193.151.252.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship argue throw worker agree. There seek large cultural exist election recent improve.\nSociety new course section important city lay piece. Great first lay save force should move.",
+        "bio": "Example issue respond center also.\nPower though entire dream ago different speech show. Sister provide eat.\nEither project how rate build rule. Dream child news manage young break."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
