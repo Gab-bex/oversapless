@@ -1,0 +1,25 @@
+{
+    "name": "Christine Mitchell",
+    "age": 35,
+    "address": {
+        "street": "Gabrielle Inlet",
+        "city": "South Sarah",
+        "state": "Utah",
+        "zip": "09782"
+    },
+    "contact": {
+        "phone": "509-873-0938x7943",
+        "servicePhone": "800015818"
+    },
+    "birthday": "1990-04-12",
+    "ip": "162.114.60.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside machine there century. Always hear arm. Music later buy hour.\nEffect individual majority else hundred. Position a education their forget.",
+        "bio": "Despite something product help idea benefit test rule. Tonight or blue beyond present.\nPerson up major parent. Say debate grow each standard me rate join. Determine common want gun."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
