@@ -1,0 +1,25 @@
+{
+    "name": "David Baker",
+    "age": 15,
+    "address": {
+        "street": "Robinson Villages",
+        "city": "Tuckerfort",
+        "state": "Mississippi",
+        "zip": "40532"
+    },
+    "contact": {
+        "phone": "001-603-468-5051",
+        "servicePhone": "800632907"
+    },
+    "birthday": "2010-12-02",
+    "ip": "87.120.65.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot prepare evening. Side bag night design security guy father our.\nHappy next with win past walk imagine. Street in quite job. Sign there end fill. Career support difficult dog wall against impact.",
+        "bio": "Wish culture western tonight table. Wife report difference they nation. Final whole front.\nNew when represent travel. Federal choose herself sometimes term her foot. Certainly life business player."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

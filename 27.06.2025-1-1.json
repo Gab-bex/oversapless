@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Green",
+    "age": 107,
+    "address": {
+        "street": "Mayo Spur",
+        "city": "Ianfurt",
+        "state": "Iowa",
+        "zip": "60235"
+    },
+    "contact": {
+        "phone": "001-706-861-3012x8910",
+        "servicePhone": "800258485"
+    },
+    "birthday": "1918-31-01",
+    "ip": "205.111.18.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe participant Mrs somebody authority history speak require. Fire yard watch compare quite.",
+        "bio": "Usually state bring.\nWhat work why next trial finally phone. While miss among certainly few campaign. Figure little system American central."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
